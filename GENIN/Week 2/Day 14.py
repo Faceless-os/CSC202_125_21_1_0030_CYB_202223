@@ -6,34 +6,34 @@ data =[
         'country': 'United States of America'
     },
     {
-        'name': 'Razaq Ogunmepon',
-        'follower_count': 124,
+        'name': 'Ajanlekoko Owonikoko',
+        'follower_count': 142,
         'description': 'Ethical Hacker',
         'country': 'Russia'
     },
     {
-        'name': 'Quavo Huncho',
-        'follower_count': 342,
-        'description': 'Musician and Actor',
-        'country': 'United States'
+        'name': 'Alejandro Sebastian',
+        'follower_count': 432,
+        'description': 'Musician and Director',
+        'country': 'Mexico'
     },
     {
-        'name': 'Joshephine Adenuga',
-        'follower_count': 158,
-        'description': 'Mechanical Engineer',
+        'name': 'Josheph Adeshina',
+        'follower_count': 185,
+        'description': 'Robotics Engineer',
         'country': 'Canada'
     },
     {
         'name': 'Femi Falana',
-        'follower_count': 1250,
+        'follower_count': 1520,
         'description': 'Lawyer',
         'country': 'Nigeria'
     },
     {
-        'name': 'Oba Solomon',
-        'follower_count': 311,
-        'description': 'Data Analyst',
-        'country': 'Togo'
+        'name': 'Solomon Grundy',
+        'follower_count': 331,
+        'description': 'Skit maker',
+        'country': 'DR Congo'
     }
 ]
     #Displaying Art

@@ -20,7 +20,7 @@ increase_enemies()
 print(f"enemies outside function: {enemies}")
 PI = 3.141
 URL = "https://www.google.com"
-TWITTER_HANDLE ="@SokeBiz"
+TWITTER_HANDLE ="@Go_od_ness"
 from random import randint
 EASY_LEVEL_TURNS = 10
 HARD_LEVEL_TURNS = 5
